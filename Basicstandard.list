@@ -1,10 +1,3 @@
-# > bilibili
-DOMAIN-SUFFIX,acgvideo.com,DIRECT
-DOMAIN-SUFFIX,biliapi.com,DIRECT
-DOMAIN-SUFFIX,biliapi.net,DIRECT
-DOMAIN-SUFFIX,bilibili.com,DIRECT
-DOMAIN-SUFFIX,bilibili.tv,DIRECT
-DOMAIN-SUFFIX,hdslb.com,DIRECT
 # > TikTok
 USER-AGENT,TikTok*,PROXY
 DOMAIN-SUFFIX,muscdn.com,PROXY
@@ -12,21 +5,6 @@ DOMAIN-SUFFIX,musical.ly,PROXY
 DOMAIN-SUFFIX,tiktokv.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn.com,PROXY
 DOMAIN-KEYWORD,-tiktokcdn-com,PROXY
-# > Tencent
-USER-AGENT,MicroMessenger%20Client,DIRECT
-USER-AGENT,WeChat*,DIRECT
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,DIRECT
-DOMAIN-SUFFIX,gtimg.com,DIRECT
-DOMAIN-SUFFIX,idqqimg.com,DIRECT
-DOMAIN-SUFFIX,igamecj.com,DIRECT
-DOMAIN-SUFFIX,myapp.com,DIRECT
-DOMAIN-SUFFIX,myqcloud.com,DIRECT
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,servicewechat.com,DIRECT
-DOMAIN-SUFFIX,tencent.com,DIRECT
-DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
-DOMAIN-SUFFIX,tenpay.com,DIRECT
-DOMAIN,file-igamecj.akamaized.net,DIRECT
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
