@@ -1,0 +1,4 @@
+USER-AGENT,mobile01-ios*,proxy
+HOST-SUFFIX,nyaso.com,proxy
+HOST-SUFFIX,share.dmhy.org,proxy
+USER-AGENT,ClickMe*,proxy
